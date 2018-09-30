@@ -17,3 +17,7 @@ This is a simple web project, deployment can be on any web server on even local 
 
 ## How to Contribute 
 
+### Copyright
+
+2018 Copyright
+
