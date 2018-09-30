@@ -25,5 +25,5 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2018 Copyright
+2018 Copyright, All tights reserved 
 
